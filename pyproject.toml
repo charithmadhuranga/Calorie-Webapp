@@ -1,0 +1,27 @@
+[project]
+name = "app-6-project-calorie-webapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "certifi",
+"chardet",
+"click",
+"cssselect",
+"Flask",
+"idna",
+"itsdangerous",
+"Jinja2",
+"lxml",
+"MarkupSafe",
+"parsel",
+"PyYAML",
+"requests",
+"selectorlib",
+"six",
+"urllib3",
+"w3lib",
+"Werkzeug",
+"WTForms"
+]
